@@ -14,3 +14,4 @@ public class FIFORhymer extends defaultCountingOutRhymer {
 		return ret;
 	}
 }
+//klawisze alt + strzalka w lewo / prawo powoduja przechodzenie w tyl / przod pomiedzy dotychczas modyfikowanymi plikami  
